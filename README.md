@@ -4,9 +4,11 @@
 **DOMAIN:** Healthcare/Medical Diagnosis
 **DURATION:** AUGUST TO SEPTEMBER
 
-##OVERVIEW OF PROJECT
 
-###Project Overview:Diabetes Prediction
+
+## OVERVIEW OF PROJECT
+
+### Project Overview:Diabetes Prediction
 
 This assignment targets to develop a predictive model which could diagnose diabetes based on numerous affected person traits. The model is educated on the PIMA Diabetes dataset, which incorporates information about patients with and without diabetes.
 
