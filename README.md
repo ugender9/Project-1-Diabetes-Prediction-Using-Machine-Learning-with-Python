@@ -12,7 +12,7 @@
 
 This assignment targets to develop a predictive model which could diagnose diabetes based on numerous affected person traits. The model is educated on the PIMA Diabetes dataset, which incorporates information about patients with and without diabetes.
 
-Key Objectives:
+### Key Objectives:
 
 Data Collection and Analysis: Load and explore the PIMA Diabetes dataset to understand the traits of diabetic and non-diabetic patients.
 Data Preprocessing: Standardize the information to make certain that every one capabilities are at the equal scale.
